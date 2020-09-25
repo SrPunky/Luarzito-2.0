@@ -9,8 +9,9 @@ module.exports = async (bot, message) => {
     .setDescription(
       "O usuário <@" +
         message.author +
-        "> deletou a mensagem " +
-        message.content
+        "> deletou a mensagem `" +
+        message.content +
+        "`"
     );
 
   bot.channels.cache.get(logCH).send(embed);
