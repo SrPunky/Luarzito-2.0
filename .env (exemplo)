@@ -1,0 +1,10 @@
+TOKEN=TOKEN_DO_BOT
+ENTRADACH=ID_DO_CANAL_BEM_VINDO
+GOOGLE_KEY=chave da api do google(https://developers.google.com)
+FB_apiKey= algumas dependencias do fb para acessar o dbs
+FB_authDomain= 
+FB_databaseURL=
+FB_projectID=
+FB_storageBucket=
+FB_messagingSenderId=
+FB_appId=
