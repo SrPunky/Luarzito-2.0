@@ -17,3 +17,4 @@ exports.run = async (bot, message, argumentos) => {
     );
   await message.channel.send("Avatar de <@" + user.id + `> 😎👌🏻 \n`, embed);
 };
+//.
